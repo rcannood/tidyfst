@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^develop.R$
+^.github$
+^CRAN-RELEASE$
+^LICENSE.md$
+^cran-comments$
+^docs$
+^pkgdown$
