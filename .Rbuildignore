@@ -4,6 +4,6 @@
 ^.github$
 ^CRAN-RELEASE$
 ^LICENSE.md$
-^cran-comments$
+^cran-comments.md$
 ^docs$
 ^pkgdown$
